@@ -1,4 +1,4 @@
-# DrugDiscovery - Scaffold Decorator
+# Scaffold Decorator
 
 ## How to run
 
